@@ -10,9 +10,6 @@ Welcome to **MTPY**, a feature-rich, command-line math game designed to make lea
 
 Built with the powerful **Rich** library, MTPY provides a beautiful and user-friendly Text-based User Interface (TUI) that's perfect for students, developers, and anyone who loves the command line.
 
-
-*(Note: This is a representative GIF. You can create one for your project using a tool like `asciinema` and `agg`)*
-
 ---
 
 ## ✨ Features
